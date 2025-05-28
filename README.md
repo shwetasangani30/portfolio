@@ -5,7 +5,7 @@ A modern, responsive portfolio website built with Next.js, showcasing my work as
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Portfolio-blue?style=for-the-badge)](https://shwetasangani.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 ## 🌟 Live Demo
 
@@ -39,7 +39,7 @@ _Professional experience timeline with detailed work history_
 
 - [Next.js 15](https://nextjs.org/) - React framework for production
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework (v4)
 - [Framer Motion](https://www.framer.com/motion/) - Animation library
 - [Vercel](https://vercel.com) - Deployment platform
 
