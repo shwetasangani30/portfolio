@@ -52,7 +52,7 @@ const HeroSection = () => {
             Hello, I&apos;m
           </h2>
           <MotionText
-            className="text-5xl md:text-7xl font-bold tracking-tight"
+            className="text-5xl md:text-7xl font-bold tracking-tight h-20"
             delay={0.4}
           >
             Shweta Sangani
