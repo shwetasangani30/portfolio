@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with Next.js, showcasing my work as a Full Stack Developer.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Portfolio-blue?style=for-the-badge)](https://shwetasangani.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-13-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
